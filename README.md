@@ -1,6 +1,11 @@
 # miniProjetNFC-G1
 Application Mobile de Lecture et écriture des tags NFC
 
+
+Rapport du mini projet expliquant la démarche du travail:
+[Rapport NFC.pdf](https://github.com/MBDS-MARRAKECH/miniProjetNFC-G1/files/10551121/Rapport.NFC.pdf)
+
+
 Réalisé par:
 
             *EL MTOUGUI HANANE
