@@ -15,5 +15,5 @@ Réalisé par:
             *ELHARRAT ASMAA
             *ELMOUADDANE AYA
             *ALLAM AOUATIF
-            *LEGCHOUR ACHRAF
+            *LAGCHOUR ACHRAF
             *FATENE YASSINE
